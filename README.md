@@ -1,10 +1,10 @@
 # Titanic Dataset - Data Cleaning & Preprocessing
 
-This project focuses on data cleaning and preprocessing of the Titanic dataset using Python in Google Colab. The objective is to prepare the raw dataset for machine learning models by handling missing values, encoding categorical variables, scaling numerical features, and removing outliers.
+This submission focuses on data cleaning and preprocessing of the Titanic dataset using Python in Google Colab. The objective is to prepare the raw dataset for machine learning models by handling missing values, encoding categorical variables, scaling numerical features, and removing outliers.
 
 ## Dataset
 - Source: Kaggle Titanic Dataset
-- File used: train.csv
+- File used: Titanic-Dataset.csv
 
 ## Tools and Libraries Used
 - Python
@@ -47,5 +47,3 @@ Final cleaned dataset:
 - Categorical features encoded numerically
 - Numerical features standardized
 - Outliers removed
-
-## Folder Structure
